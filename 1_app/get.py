@@ -5,3 +5,4 @@ app = FastAPI()
 @app.get('/')
 def hello():
     return f"Hello, World!"
+
