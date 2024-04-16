@@ -1,0 +1,27 @@
+REST recommends certain architectural constraints.
+
+Uniform interface
+
+Statelessness
+
+Client-server
+
+Cacheability
+
+Layered system
+
+Code on demand
+
+REST constraints has the following advantages −
+
+Scalability
+
+Simplicity
+
+Modifiability
+
+Reliability
+
+Portability
+
+Visibility
