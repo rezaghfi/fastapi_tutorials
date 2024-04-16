@@ -1,0 +1,5 @@
+#git remote set-url --add --push origin [original repo URL]
+#git remote set-url --add --push origin https://ganj.yaftyar.ir/gholamalitabar_r/fastapi_tutorials.git
+.venv
+
+
